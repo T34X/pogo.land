@@ -1,1 +1,2 @@
-export * from "./home.ts"
+export * from "./index.ts";
+export * from "./home.ts";
