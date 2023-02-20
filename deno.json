@@ -1,9 +1,5 @@
 {
   "tasks": {
     "dev": "deno run -A --watch mod.ts"
-  },
-  "imports": {
-    "pogo": "https://deno.land/x/pogo@v0.6.0",
-    "pogo/": "https://deno.land/x/pogo@v0.6.0/"
   }
 }
