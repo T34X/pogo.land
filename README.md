@@ -4,7 +4,7 @@
 ### Installation
 Clone this repository:
 ```bash
-git clone https://github.com/user6879/pogo.land
+git clone https://github.com/T34X/pogo.land
 ```
 
 Run the `mod.ts` using `tasks`:
