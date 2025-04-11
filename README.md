@@ -1,4 +1,4 @@
-# pogo.land - Simple template.
+# pogo-land - Simple template.
 
 ## Usage
 ### Installation
